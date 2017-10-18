@@ -20,37 +20,35 @@
 
 </head>
 <body>
-  <div class = "mobile-header">
- <a href="pages/index.php">
-    <img src="images/mobile-logo.png"></img>
-  </a>
+<div class= "mobile-menu">
+  <div class= "mobile-bar">
+    <div class="menubutton">
 
+    <img src="images/menubutton.png"></img>
+    </div>
   </div>
 
-<div class="mobile-nav">
+  <div class="mobile-nav">
+      <ul>
+        <li>About us</li>
+        <li>Construction</li>
+        <li>Agriculture</li>
+        <li>Surveying</li>
+        <li>Real Estate</li>
+        <li>Data Processes</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+  </div>
 
 
-
-
-  <ul>
-  <li>About us</li>
-  <li>Construction</li>
-  <li>Agriculture</li>
-  <li>Surveying</li>
-  <li>Real Estate</li>
-  <li>Data Processes</li>
-  <li>Contact</li>
-  </ul>
-
-
-</div>
-
-
-
-
-
-
-
+  <div class = "mobile-header">
+ <a href="../pages/index.php">
+   <div class= "mobile-logo">
+    <img src="images/mobile-logo.png"></img>
+  </div>
+  </a>
+  </div>
 
   <div class=background-header>
 <header class="container">

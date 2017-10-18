@@ -1,12 +1,5 @@
 <?php include "includes/header.php"; ?>
 
-
-
-
-
-
-
-
     <div class="carousel">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -59,11 +52,13 @@
 
 </div>
 
+
+<div class= "mission-statement">
 <div class= "spacer"></div>
 <section class="jumbotron">
   <div class="container">
       <div class="row text-center">
-                                                                                                                                              <br><br><br>
+
         <h3>"We aim to achieve to provide an aerial drone service business activites more cost effective.
           These includes using world class technologies using our state of the art drones to save
           businesses time and money when required aerial surveying assitance.
@@ -74,6 +69,7 @@
           </div>
         </div>
   </section>
+</div>
 
 
 

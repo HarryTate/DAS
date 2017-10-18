@@ -29,6 +29,12 @@ $(document).ready(function() {
   });
 
 
+  $('.menubutton').click(function() {
+    $( ".mobile-nav" ).slideToggle( "slow", function() {
+      // Animation complete.
+    });
+  });
+
 
 
 
