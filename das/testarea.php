@@ -9,42 +9,38 @@
 <br>
 <br>
 <br>
+<?php
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="services-image-1">
-        <img src="images/droneserviceimg1.jpg"> <h3><span> Agriculture</span></h3> </img>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="services-image-1">
-        <img src="images/droneserviceimg2.jpg"> <h3><span> Real Estate</span></h3> </img>
-      </div>
-    </div>
+  $name = "";
+  $email= "";
+  $message= "";
 
-    </div>
-  </div>
+
+if (isset($_POST['submit'])){
+require '../../configure.php';
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $message = $_POST['message'];
+
+  echo $name;
+  echo $email;
+  echo $message;
+}
+?>
+<div class="row">
+  <div class = "col-sm-6">
+<form id="contact_form" action="testarea.php" method="POST" >
+   <label for="name">Name</label><br/>
+   <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+   <label for="email">Email</label><br/>
+   <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+   <label for="message">Message</label><br />
+   <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+ <input id="submit" type="submit" Name="submit" value="Send email" />
+</form>
 </div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="services-image-1">
-        <img src="images/droneserviceimg3.jpg"> <h3><span> Surveying</span></h3> </img>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="services-image-1">
-        <img src="images/droneserviceimg4.jpeg"> <h3><span> Construction</span></h3> </img>
-        <p>We offer a range on construction services to do with out drones.
-          These include different options like inspections, area surveying and accurate ground measurements.</p>
-      </div>
-    </div>
-
-    </div>
-  </div>
 </div>
-
+<div class = "col-sm-6">
+</div>
 
 <?php include "includes/footer.php"; ?>

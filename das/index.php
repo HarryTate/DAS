@@ -70,10 +70,6 @@
         </div>
   </section>
 </div>
-
-
-
-
 <div class= "secondcontent">
 
 <section class = "container">
@@ -118,113 +114,50 @@
   </div>
 
 
-<div class="index-services-title"><h2> Services</h2></div>
 
 
-  <div class= "construct-services">
+  <br><br>
 
-  <section class = "container">
+  <div class="container">
+    <h2> Services</h2>
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="services-image-1"><div id="agricul">
+          <img src="images/droneserviceimg1.jpg"><div id="agricul2"> <h3><span> Agriculture</span></h3> </img>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="col-sm-6">
+        <div class="services-image-1"><div id="reales">
+          <img src="images/droneserviceimg2.jpg"><div id="reales2"> <h3><span> Real Estate</span></h3> </img>
+          </div>
+        </div>
+      </div>
 
-    <div class = "row text-center">
-
-
-      <figure class = "col-sm-4">
-
-
-        <div class="construct-name-services">
-        <h2>
-      Construction
-  </h2>
-
+      </div>
+    </div>
   </div>
-      </figure>
 
-      <figure class = "col-sm-8">
-        <div class= "construct-info-services">
-  <p>We offer a range on construction services to do with out drones. These include different options like inspections, area surveying and accurate ground measurements.</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="services-image-1"><div id="surv">
+          <img src="images/droneserviceimg3.jpg"> <div id="surv2">  <h3><span> Surveying </span></h3> </div></img>
         </div>
-      </figure>
+
         </div>
-    </div>
-
-    <div class= "construct-services">
-
-    <section class = "container">
-      <div class = "row text-centre">
-        <figure class = "col-sm-4">
-
-
-          <div class="construct-name-services">
-          <h2>
-        Agriculture
-    </h2>
-
-    </div>
-        </figure>
-
-        <figure class = "col-sm-8">
-          <div class= "construct-info-services">
-    <p>We specilise in differnt agriculture tasks that allow farmers to inspect land through video recorded through drones. This saves farmers time and allows them to get back to their day to day tasks.</p>
+      </div>
+      <div class="col-sm-6">
+        <div class="services-image-1"> <div id="construct">
+          <img src="images/droneserviceimg4.jpeg"> <div id="construct2">  <h3><span> Construction</span></h3> </img>
           </div>
-        </figure>
-          </div>
+        </div>
       </div>
 
-
-      <div class= "construct-services">
-
-      <section class = "container">
-        <div class = "row text-centre">
-          <figure class = "col-sm-4">
-
-
-            <div class="construct-name-services">
-            <h2>
-        Surveying
-      </h2>
-
       </div>
-          </figure>
-
-          <figure class = "col-sm-8">
-            <div class= "construct-info-services">
-      <p>Our Surveying allows you to get a dynamic view of the property to retrieve date from an aerial position.
-        This allows the surveyer to reach different angles of the proerty designed to provide accurate data.</p>
-            </div>
-          </figure>
-            </div>
-        </div>
-
-        <div class= "construct-services">
-
-        <section class = "container">
-          <div class = "row text-centre">
-            <figure class = "col-sm-4">
-
-
-              <div class="construct-name-services">
-              <h2>
-            Real Estate
-        </h2>
-
-        </div>
-            </figure>
-
-            <figure class = "col-sm-8">
-              <div class= "construct-info-services">
-        <p>We offer a drone service that can inspect real estate properties for your portfolio offering different angles of video and photos to sell the property.</p>
-              </div>
-            </figure>
-              </div>
-          </div>
-
-
-
-
-
-
-
-
+    </div>
+  </div>
 
 
 <div class= "contact">
@@ -268,10 +201,6 @@
   <figure class = "col-sm-12">
 
       <div id="map">Map</div>
-
-<script>
-myMap();
-</script>
 
 </figure>
 </div>

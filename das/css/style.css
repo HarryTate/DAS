@@ -281,6 +281,12 @@ width:100%;
 
 }
 
+.contact-page-map{
+
+  margin-top:150px;
+  width:1500px;
+}
+
 
 /*SERVICES PAGE*/
 
@@ -330,6 +336,24 @@ text-align: center;
 padding-top:50px;
 padding-left: 10px;
 padding-right:10px;
+
+
+}
+.contactcontent{}
+
+
+.contactcontent .contactform{
+  margin-top:130px;
+}
+
+.googlemaps{
+
+    height:500px;
+    width:75%;
+    margin: 0 auto;
+    width:500px;
+
+
 
 
 }
@@ -401,7 +425,14 @@ header nav ul li{
 
 
 }
+@media only screen and (min-width: 774px){
 
+.mobile-nav ul{
+display:none;
+}
+
+
+}
 
 /*mobiles (noticed break point)*/
 @media only screen and (max-width: 774px){
@@ -519,10 +550,6 @@ display:none;
 }
 }
 
-.services-image-1{
-
-
-}
 
 .services-image-1 img{
 
@@ -536,12 +563,12 @@ position:absolute;
 top:275px;
 text-align: center;
 color:#FFF;
-
-
 padding:10px;
 background: rgb(0, 0,0); /* fallback color */
 background: rgba(0, 0,0, 0.9);
-56 174 204
+width:200px;
+font-weight:300;
+
 }
 .services-image-1 p {
 left:95px;
@@ -552,7 +579,5 @@ position:absolute;
 top:150px;
 z-index: 1;
 color:#000;
-
-
 
 }
