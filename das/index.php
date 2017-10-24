@@ -11,7 +11,6 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-
       <div class="item active">
         <img src="images/jumbotron1.jpg" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
