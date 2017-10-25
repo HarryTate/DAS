@@ -9,7 +9,7 @@ if (isset($_POST['submit'])){
   $message = $_POST['message'];
 
 
-    $email_from = '';
+    $email_from = 'website@droneaerialsurveying.com';
     $email_subject = "New Enquiry";
     $email_body = "You have received a new message from the user $name.\n".
                             "Here is the message:\n $message".
@@ -57,7 +57,7 @@ else
     Contact
 </h2>
 
-<form method="post" name="myemailform" action="formpractise.php">
+<form method="post" name="myemailform" action="contact.php">
 
 Enter Name:<br> <input type="text" name="name"><br>
 Enter Email Address:  <br>  <input type="text" name="email"><br>

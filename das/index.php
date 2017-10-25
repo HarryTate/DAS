@@ -199,7 +199,7 @@
 <div class = "row">
   <figure class = "col-sm-12">
 
-      <div id="map">Map</div>
+      <div id="map"></div>
 
 </figure>
 </div>
