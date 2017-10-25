@@ -22,10 +22,10 @@ if (isset($_POST['submit'])){
     $email_from = 'website@droneaerialsurveying.com';
     $email_subject = "New Enquiry";
     $email_body = "You have received a new message from the user $name (" . $visitor_email . ").\n".
-                            "Here is the message:\n $message".
+                            "Here is the message:\n\n $message".
 
 
-    $to = "sales@droneaerialsurveying.com";
+    $to = "sales@droneaerialsurveying.com\n";
     $headers = "From: $email_from \r\n";
     $headers .= "Reply-To: $visitor_email \r\n";
     mail($to,$email_subject,$email_body,$headers);
