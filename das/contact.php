@@ -15,7 +15,7 @@ if (isset($_POST['submit'])){
                             "Here is the message:\n $message".
 
 
-    $to = "";
+    $to = "clive.tate@droneaerailsurveying.com";
     $headers = "From: $email_from \r\n";
     $headers .= "Reply-To: $visitor_email \r\n";
     mail($to,$email_subject,$email_body,$headers);
@@ -23,26 +23,6 @@ if (isset($_POST['submit'])){
 
 
 ?>
-
-<?php
-/*
-$to       = 'harryjamestate@gmail.com';
-$subject  = 'New Contact Enquiry - Drone Aerial Surveying';
-$message  = 'Hi, you just received an email using sendmail!';
-$headers  = 'From:harryjamestate@gmail.com' . "\r\n" .
-            'MIME-Version: 1.0' . "\r\n" .
-            'Content-type: text/html; charset=utf-8';
-
-
-if(mail($to, $subject, $message, $headers))
-    echo "Email sent";
-else
-    echo "Email sending failed";
-    */
-?>
-
-
-
 
 
 <div class= "contactcontent">
@@ -62,7 +42,7 @@ else
 Enter Name:<br> <input type="text" name="name"><br>
 Enter Email Address:  <br>  <input type="text" name="email"><br>
 Enter Message:<br>  <textarea name="message"></textarea><br>
-<input type="submit" name="submit" value="Send Form">
+<input type="submit" name="submit" value="Send Message">
 </form>
 </div>
     </figure>

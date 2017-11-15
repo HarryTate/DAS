@@ -354,10 +354,8 @@ padding-right:10px;
     margin: 0 auto;
     width:500px;
 
-
-
-
 }
+
 
 
 footer.container {
@@ -391,6 +389,10 @@ footer .row ul li {
 
 }
 
+.energyimage img{
+padding-top:50px;
+
+}
 
 /*Hides mobile elements*/
 .mobile-header {

@@ -38,12 +38,13 @@
 
   <div class="mobile-nav">
       <ul>
-        <a href="index.php"><li>About us</li>      </a>
+
       <a href="construction.php">  <li>Construction</li>  </a>
-      <a href="agriculture.php">  <li>Agriculture</li>   </a>
-      <a href="surveying.php">  <li>Surveying</li>     </a>
-      <a href="realestate.php">  <li>Real Estate</li>   </a>
+      <a href="publicsafety.php">  <li>Public Safety</li>   </a>
+      <a href="energy.php">  <li>Energy</li>     </a>
+      <a href="Infrastructure.php">  <li>Infrastructure</li>   </a>
       <a href="dataprocesses.php">  <li>Data Processes</li> </a>
+      <a href="index.php"><li>Our Company</li>      </a>
       <a href="contact.php">  <li>Contact</li>        </a>
       </ul>
     </div>
@@ -64,20 +65,21 @@
     <h1 class="col-sm-4"><div class="logo"><a href="index.php"><img src="images/logo.png"></img></a></div></h1>
     <nav class="col-sm-8 text-right">
         <ul>
-			<li><a href="index.php">About Us</a></li>
+
 
 <li>
         <div class="dropdown">
-          <button class="dropbtn"><a href="services.php">Services</a></button>
+          <button class="dropbtn"><a href="services.php">Industry Services</a></button>
           <div class="dropdown-content">
             <a href="construction.php">Construction</a>
-            <a href="agriculture.php">Agriculture</a>
-            <a href="surveying.php">Surveying</a>
-            <a href="realestate.php">Real Estate</a>
+            <a href="publicsafety.php">Public Safety</a>
+            <a href="infrastructure.php">Infrastructure</a>
+            <a href="energy.php">Energy</a>
           </div>
         </div>
       </li>
       <li><a href="dataprocesses.php">Data Processes</a></li>
+      <li><a href="index.php">Our Company</a></li>
 			<li><a href="contact.php">Contact</a></li>
 		</ul>
     </nav>

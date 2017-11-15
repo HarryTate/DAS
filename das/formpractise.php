@@ -25,7 +25,7 @@ if (isset($_POST['submit'])){
                             "Here is the message:\n\n $message".
 
 
-    $to = "sales@droneaerialsurveying.com\n";
+    $to = "\nsales@droneaerialsurveying.com\n";
     $headers = "From: $email_from \r\n";
     $headers .= "Reply-To: $visitor_email \r\n";
     mail($to,$email_subject,$email_body,$headers);
