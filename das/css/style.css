@@ -360,11 +360,11 @@ padding-right:10px;
 
 footer.container {
   color:#fff;
-  height:150px;
-  margin-top: 20px;
+  height:175px;
+  margin-top: 30px;
   width:100%;
   background-color: #697268;
-  font-size: 12px;
+  font-size: 14px;
   padding: 20px 0;
 }
 
@@ -379,12 +379,12 @@ footer ul {
 }
 
 footer ul li {
-  font-size:14px;
+  font-size:16px;
 
 }
 
 footer .row ul li {
-	font-size:11px;
+	font-size:12px;
   margin: 20px 20px;
 
 }
@@ -448,6 +448,7 @@ display:none;
 }
 
 
+
 }
 
 /*mobiles (noticed break point)*/
@@ -470,11 +471,11 @@ height:0px;
 
 .mobile-menu{
 z-index: 1;
-
-
+}
+.mission-statement{
+  display:none;
 }
 .mobile-header{
-
   display:block;
 }
 

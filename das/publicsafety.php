@@ -27,7 +27,7 @@ searching more area than any one group of people would be capable of. Search pat
 <strong>Disaster Response - </strong>To help determine the areas needing urgent support, allowing government services and aid agencies to deploy their teams and resources where they can make the biggest impact. As rescue slowly moves to recovery, aerial systems can be used to create 3D maps and models that illustrate exactly where and to what extent an area has been damaged.
 
 </p>
-<br><br><br><br><br><br><br><br>
+
 </div>
     </figure>
 

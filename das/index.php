@@ -95,7 +95,7 @@
 
     <figure class = "col-sm-6">
       <div class= "droneimage">
-        <img src="images\construction.jpg">
+        <img src="images\droneincar.jpg">
       </div>
     </figure>
       </div>
