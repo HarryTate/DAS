@@ -58,11 +58,8 @@
   <div class="container">
       <div class="row text-center">
 
-        <h3>"We aim to achieve to provide an aerial drone service business activites more cost effective.
-          These includes using world class technologies using our state of the art drones to save
-          businesses time and money when required aerial surveying assitance.
-          We do this by completing our customer service in a fast,friendly and efficent way to allow businesses to get back
-           to completing their day to day tasks with the accurate data they require."<BR> - Drone Aerial Surveying</h3>
+        <h3>"We aim to deliver a service to sectors that will provide them with valuable accurate data while saving the business time.
+           Using our high specification drone surveying equipment we will offer a service that will decrease costs and increase productivity."<BR> - Drone Aerial Surveying</h3>
 
             </div>
           </div>
@@ -81,13 +78,13 @@
     About
 </h2>
 <p>
-    At Drone Aerial Surveying we provide, drone inspection and drone survey
+    At Drone Aerial Surveying we provide drone inspection and drone survey
     services to our customers. Our specialist pilots provide a safe high quality service with a dedication
     to ensuring safety, reducing risks and minimising costs to a business.
 </p>
 <p>
-    We utilise the very latest in drone technology, to provide our customers
-    with precise inspections, detailed surveys and renowed high quality images. Our groundbreaking operations, technology, and
+    We utilise high spec phantom 4 pro drones to provide our customers
+    with data for the construction, energy, infrastructure and health and safety sectors. Our groundbreaking operations, technology, and
     software are providing real-world solutions to traditional problems.
 </p>
 <p>
@@ -120,8 +117,8 @@
       </div></a>
     </div>
       <div class="col-sm-6">
-        <a href="construction.php">  <div class="services-image-1"><div id="reales">
-          <img src="images/droneserviceimg2.jpg"><div id="reales2"> <h3><span> Construction</span></h3> </img>
+        <a href="infrastructure.php">  <div class="services-image-1"><div id="reales">
+          <img src="images/droneserviceimg2.jpg"><div id="reales2"> <h3><span> Infrastructure</span></h3> </img>
           </div>
         </div>
       </div>
@@ -139,9 +136,9 @@
         </div>
       </div></a>
       <div class="col-sm-6">
-        <a href="infrastructure.php">
+        <a href="construction.php">
         <div class="services-image-1"> <div id="construct">
-          <img src="images/droneserviceimg4.jpeg"> <div id="construct2">  <h3><span> Infrastructure</span></h3> </img>
+          <img src="images/droneserviceimg4.jpeg"> <div id="construct2">  <h3><span> Construction</span></h3> </img>
           </div>
         </div>
       </div>

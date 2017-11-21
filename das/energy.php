@@ -23,7 +23,7 @@ The high resolution imagery, 16 megapixel photos and 4K video, ideal for identif
 
 </p>
 <p>
-  <strong>Oil & Gas - </strong> Drone’s allow for even the largest facilities to be inspected quickly from the air.
+  <strong>Oil and Gas - </strong> Drone’s allow for even the largest facilities to be inspected quickly from the air.
    They provide simple, high altitude facility surveying as well as close proximity vertical inspection.
 </p>
 <p>
@@ -39,8 +39,7 @@ The high resolution imagery, 16 megapixel photos and 4K video, ideal for identif
 
   <figure class = "col-sm-6">
     <div class= "energyimage">
-
-      <img src="images\energy.jpg"></img>
+      <img src="images\energy.JPG"></img>
     </div>
   </figure>
     </div>

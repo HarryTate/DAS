@@ -33,7 +33,7 @@
 
   <figure class = "col-sm-6">
     <div class= "droneimage">
-      <img src="images\infrastructure.jpg">
+      <img src="images\infrastructure.JPG">
     </div>
   </figure>
     </div>

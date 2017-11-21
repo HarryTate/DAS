@@ -36,7 +36,7 @@ searching more area than any one group of people would be capable of. Search pat
 
   <figure class = "col-sm-6">
     <div class= "droneimage">
-      <img src="images\publicsafety.jpg">
+      <img src="images\publicsafety.JPG">
     </div>
   </figure>
     </div>

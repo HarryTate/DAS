@@ -411,11 +411,16 @@ display:none;
 }
 
 
-@media only screen and (max-width:988px){
+@media only screen and (max-width:1000px){
 
 .logo img{
 
   width:225px;
+}
+
+header nav ul{
+  white-space: nowrap;
+  float:right;
 }
 
 header nav ul li{
@@ -426,9 +431,13 @@ header nav ul li{
 
 }
 
+.carousel{
+  display:none;
+}
+
 section.jumbotron{
 
-  display:none;
+  margin-top:30px;
 }
 
 }
