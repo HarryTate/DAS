@@ -14,6 +14,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/mobilestyle.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
@@ -42,7 +43,7 @@
       <a href="construction.php">  <li>Construction</li>  </a>
       <a href="publicsafety.php">  <li>Public Safety</li>   </a>
       <a href="energy.php">  <li>Energy</li>     </a>
-      <a href="Infrastructure.php">  <li>Infrastructure</li>   </a>
+      <a href="infrastructure.php">  <li>Infrastructure</li>   </a>
       <a href="dataprocesses.php">  <li>Data Processes</li> </a>
       <a href="index.php"><li>Our Company</li>      </a>
       <a href="contact.php">  <li>Contact</li>        </a>
@@ -52,7 +53,7 @@
 
 
   <div class = "mobile-header">
- <a href="../pages/index.php">
+ <a href="index.php">
    <div class= "mobile-logo">
     <img src="images/mobile-logo.png"></img>
   </div>

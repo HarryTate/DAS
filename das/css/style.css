@@ -44,7 +44,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 
   font-weight: 300;
-  background-image:url();
+
 overflow-x: hidden;
 }
 
@@ -450,7 +450,21 @@ display:none;
 
 
 }
+@media only screen and (max-width: 1199px){
 
+.services-desktops{
+
+  display:none;
+}
+}
+
+@media only screen and (min-width: 1199px){
+
+.mobile-services-buttons{
+
+display:none;
+}
+}
 /*mobiles (noticed break point)*/
 @media only screen and (max-width: 774px){
 

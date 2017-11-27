@@ -95,7 +95,7 @@
 
     <figure class = "col-sm-6">
       <div class= "droneimage">
-        <img src="images\droneincar.jpg">
+        <img src="images\droneincar.JPG">
       </div>
     </figure>
       </div>
@@ -104,8 +104,8 @@
 
 
 
-  <br><br>
 
+<div class= "services-desktops">
   <div class="container">
     <h2> Services</h2>
     <div class="row">
@@ -146,6 +146,30 @@
       </div>
     </div>
   </div>
+</div>
+  <div class="row">
+  <div class="mobile-services-buttons">
+            <a href="energy.php"><div class="col-md-3">
+            <h2>Energy</h2>
+
+          </div></a>
+          <a href="infrastructure.php">
+          <div class="col-md-3">
+
+            <h2>Infrastructure</h2>
+         </div></a>
+         <a href="publicsafety.php">
+          <div class="col-md-3">
+            <h2>Public Safety</h2>
+          </div>
+        </a>
+        <a href="construction.php">
+          <div class="col-md-3">
+            <h2>Construction</h2>
+          </div>
+        </a>
+        </div>
+        </div>
 
 
 <div class= "contact">
